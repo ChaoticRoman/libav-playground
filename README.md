@@ -1,0 +1,3 @@
+# FFMPEG's libav* libraries playground
+
+Initial example created with o4-mini, two small bugs fixed and it works. Need this to debug something...
